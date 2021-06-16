@@ -3,5 +3,4 @@ HOW Data Engineer Bootcamp
 
 # Modulos
 
-- Modulo01 => Scrapping Lotofácil
-[a relative link](Modulo_01/README.md)
+- [Modulo_01](Modulo_01) => Scrapping Lotofácil
